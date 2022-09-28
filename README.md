@@ -2,8 +2,6 @@
 
 # Actividades_Aprendizaje
 
-Apuntes en el archivo [Python-IBM](Python-IBM.ipynb)
-
 ### Jorge Steven Reyes - A01794421
 
 #### a01794421@tec.mex
