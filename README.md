@@ -2,12 +2,14 @@
 
 # Actividades_Aprendizaje
 
-### Jorge Steven Reyes - A01794421
+##### Jorge Steven Reyes - A01794421
+##### a01794421@tec.mex
 
-#### a01794421@tec.mex
+#### 1. [Python for Data Science Course](Python_for_Data_Science_course/) - Progress
+##### Course finished 04/10/2022 - [Certificate](assets/Capture15.PNG)
 
-##### Progress
-
-<img src="assets/Capture7.PNG"
+<img src="assets/Capture14.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+#### 2. [Semana 3 - Actividad 1](week3_activity1/Activity_1-Week_3.ipynb)
