@@ -17,6 +17,6 @@
 #### 3. [Data Analysis with Python](2_Data_Analysis_with_Python_course/) - Progress
 ##### Module 2 finished 18/10/2022
 
-<img src="assets/Capture21.PNG"
+<img src="assets/Capture23.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
