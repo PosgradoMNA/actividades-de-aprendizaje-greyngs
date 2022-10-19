@@ -15,8 +15,8 @@
 #### 2. [Semana 3 - Actividad 1](week3_activity1/Activity_1-Week_3.ipynb)
 
 #### 3. [Data Analysis with Python](2_Data_Analysis_with_Python_course/) - Progress
-##### Module 1 finished 10/10/2022
+##### Module 2 finished 18/10/2022
 
-<img src="assets/Capture18.PNG"
+<img src="assets/Capture21.PNG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
